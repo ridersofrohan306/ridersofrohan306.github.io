@@ -119,7 +119,7 @@ social:
 pages_list:
   About: 'about'
   Research: 'blog'
-  Publications: 'about'
+  Publications: 'pubs'
   Contact: 'contact'
 
 # Pagination path
